@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Özgür!</h1>
-<h3 align="center">I'm a 3rd year CS student with an endless interest in Programming and Game Development.<br>I am currently working as a game developer at Kaliba Games and develop puzzle games for mobile platforms!</h3>
+<h3 align="center">I'm a CS student with an endless interest in Programming and Game Development.<br>I am currently working as a game developer at Kaliba Games and develop puzzle games for mobile platforms!</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
