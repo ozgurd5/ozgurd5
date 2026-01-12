@@ -1,13 +1,3 @@
 <h1 align="center">Hi 👋, I'm Özgür!</h1>
-<h3 align="center">I'm a CS student with an endless interest in Programming and Game Development.<br>I am currently working as a game developer at Kaliba Games and develop puzzle games for mobile platforms!</h3>
+<h3 align="center">I'm a developer with an endless interest in Programming and Game Development.<br>I am currently working as a game developer at Kaliba Games and develop puzzle games for mobile platforms! You can reach me out from: https://linktr.ee/ozgurd5</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-  <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozgurd5&show_icons=true&theme=dark&locale=en&layout=compact" alt="ozgurd5" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ozgurd5&show_icons=true&theme=dark&locale=en" alt="ozgurd5" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozgurd5&theme=dark" alt="ozgurd5" /></p>
